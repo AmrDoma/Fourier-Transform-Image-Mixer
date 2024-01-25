@@ -4,13 +4,15 @@ A desktop program that explains the relative importance of the magnitude and pha
 
 ## Features
 
-- [x] Compose a signal of variable frequencies, magnitudes, or phase
-- [x] Save composed signal
-- [x] Browse a signal
-- [x] Select sampling rate in hz or normalized to FMax
-- [x] Show or hide samples selected
-- [x] Reconstruct signal from samples using Nyquist-Shannon theory
-- [x] View the difference between original signal and reconstructed signal
+- [x] Convert image to grayscale for ease of understanding
+- [x] All images are resized to the same size
+- [x] Display magnitude, phase, real or imaginary component of the image
+- [x] Browse up to 4 images at a time
+- [x] Easy browsing: double tap to browse
+- [x] Adjust brightness and contrast of an image by dragging up/down or left/right
+- [x] Two seperate output windows
+- [x] Select percentage of components from each image
+- [x] Select either inner region (low frequencies) or outer region (high frequencies) of the components selected
 
 
 ## Preview GIF
